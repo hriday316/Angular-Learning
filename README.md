@@ -21,13 +21,13 @@ Open a terminal and change to the project folder you want to run. Example steps:
 cd "02-investment-calculator"
 npm install
 # Run using the local Angular CLI
-npx ng serve --open
+ ng serve  
 ```
 
 ## Build for production
 From the project folder:
 
 ```bash
-npx ng build --prod
+ ng build  
 ```
 practice attribute & structural directive
